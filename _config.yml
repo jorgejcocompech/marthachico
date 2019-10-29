@@ -3,7 +3,7 @@ name: 'Mundana for Martha Chico'
 description: 'Mundana Customization for Martha Chico Blog'
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
-baseurl: '/mundana-theme-jekyll'
+baseurl: '/marthachico'
 disqus: 'demowebsite'
 email: 'wowthemesnet@gmail.com'
 
