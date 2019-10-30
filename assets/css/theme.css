@@ -1,5 +1,7 @@
+
+
 /*!
- * Mundana Jekyll Theme (https://www.wowthemes.net/mundana-jekyll-theme/)
+ * Mundana for Martha Chico's Blog
  */
 
 body {
@@ -206,6 +208,8 @@ a.text-dark:hover {
 	margin-right:2rem;
 	font-size:1.55rem;
     font-family:"Georgia","Times New Roman",serif;
+	
+	
 }
 .dropdown-item {
 	font-weight:400;
